@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! From GitHub Actions"
 date:   2026-02-10 15:50:48 +0100
 categories: jekyll update
 ---
